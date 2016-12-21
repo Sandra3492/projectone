@@ -1,4 +1,4 @@
 def operations(a,b):
-	print(str(a)+str(b))
+	print(a**b)
 
 operations(1,2)
