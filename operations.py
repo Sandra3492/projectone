@@ -1,4 +1,4 @@
 def operations(a,b):
-	print(str(a)+str(b))
+	print('to_conflit)
 
 operations(1,2)
